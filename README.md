@@ -3,10 +3,14 @@ Course material for Asset Allocation and Investment Strategies UW - 2026/27
 
 dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
+## Meeting link: 
+
+[https://meet.google.com/csa-hfoq-qxx](https://meet.google.com/csa-hfoq-qxx)
+
 ## Requirements and Grading: 
 
 - 50% activity
-- 50% (40/10) project and presentation (in teams of 3-4)
+- 50% (40/10) project and presentation (in teams of 5-7)
 - attendance is mandatory (max 2 unjustified absences)
 
 | Grade | Threshold |
@@ -19,8 +23,20 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 | 5.0   | 92–100%   |
 | 5.5   | >100%     |
 
+**Project proposal**: 
+
+**Project discussion:** 
+
+**Project delivery and defense**:
+
 ## Generative AI Rules & Plagiarism
 
-Use of generative AI is allowed only to **help** you with your coding. Any parts of the code that have been generated need to clearly marked by comments in the code, where you need to state the scope of the support the type of AI model and its version.
+Use of AI for generating projects, homeworks and emails is not allowed (it will results in failing the tasks/course).
+
+Use of generative AI is allowed only to **help** you with your studying and coding. Any parts of the code or text that have been generated need to clearly marked by comments, where you need to state the scope of the support the type of AI model and its version.
 
 Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are not allowed to copy parts from one project to another and you always need to provide an exact source.
+
+## Annoucements
+
+## Lessons
