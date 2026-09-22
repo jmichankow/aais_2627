@@ -25,7 +25,11 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 **Project proposal**: 
 
+Subject of your research and team members (5-7), to be send via email. Subject needs to be a research related to the course, for example choose a selected investment approach and build and test a strategy.
+
 **Project discussion:** 
+
+Around 5 mins, we will be discussing why you chose the subject, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities. All team members must be present during the discussion.
 
 **Project delivery and defense**:
 
