@@ -1,4 +1,4 @@
-# asset_allocation_is_2627
+# Asset Allocation and Investment Strategies 2026/27
 Course material for Asset Allocation and Investment Strategies UW - 2026/27
 
 dr Jakub Michańków, email: j.michankow@uw.edu.pl
@@ -10,7 +10,7 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 ## Requirements and Grading: 
 
 - 50% activity
-- 50% (40/10) project and presentation (in teams of 5-7)
+- 50% (40/10) project and discussion (in teams of 5-7)
 - attendance is mandatory (max 2 unjustified absences)
 
 | Grade | Threshold |
