@@ -46,3 +46,5 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 ## Annoucements
 
 ## Lessons
+
+08.10 - Lesson 1. Introduction & hedge fund strategies and asset class classification.
