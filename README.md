@@ -29,9 +29,11 @@ Subject of your research and team members (5-7), to be send via email. Subject n
 
 **Project discussion:** 
 
-Around 5 mins, we will be discussing why you chose the subject, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities. All team members must be present during the discussion.
+Around 5 mins, we will be discussing why you chose the subject, how you want to solve the problem, short description of the tools and data you are going to use, and short description of each team member responsibilities. All team members must be present during the discussion.
 
-**Project delivery and defense**:
+**Project delivery and defence**:
+
+For the project you'll need to implement a selected investment strategy to a several different asset classes (minimum four) and a combined portfolio of these assets. The strategy needs to be backtested on historical data (can be additionaly paper traded) with a proper trades log. Results should include proper risk adjusted performance metrics and plots of cummulative returns and drawdowns. They need to include a comparison with a benchmark, include transaction costs, out of sample tests and robustness tests.
 
 ## Generative AI Rules & Plagiarism
 
