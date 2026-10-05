@@ -41,6 +41,8 @@ Use of AI for generating projects, homeworks and emails is not allowed (it will 
 
 Use of generative AI is allowed only to **help** you with your studying and coding. Any parts of the code or text that have been generated need to clearly marked by comments, where you need to state the scope of the support the type of AI model and its version.
 
+AI generated work will be accepted only if you you can answer all the questions regarding both of whats in the text and the code as well as questions regarding understing of tools and models/strategies used in your work. 
+
 Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are not allowed to copy parts from one project to another and you always need to provide an exact source.
 
 ## Annoucements
