@@ -23,15 +23,15 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 | 5.0   | 92–100%   |
 | 5.5   | >100%     |
 
-**Project proposal**: 
+**Project proposal**: 13.11.2026
 
 Subject of your research and team members (5-7), to be send via email. Subject needs to be a research related to the course, for example choose a selected investment approach and build and test a strategy.
 
-**Project discussion:** 
+**Project discussion:** 18.12.2026
 
-Around 5 mins, we will be discussing why you chose the subject, how you want to solve the problem, short description of the tools and data you are going to use, and short description of each team member responsibilities. All team members must be present during the discussion.
+Around 5-10 mins, we will be discussing why you chose the subject, how you want to solve the problem, short description of the tools and data you are going to use, and short description of each team member responsibilities. All team members must be present during the discussion.
 
-**Project delivery and defence**:
+**Project delivery and defence**: 22.01.2027
 
 For the project you'll need to implement a selected investment strategy to a several different asset classes (minimum four) and a combined portfolio of these assets. The strategy needs to be backtested on historical data (can be additionaly paper traded) with a proper trades log. Results should include proper risk adjusted performance metrics and plots of cummulative returns and drawdowns. They need to include a comparison with a benchmark, include transaction costs, out of sample tests and robustness tests.
 
