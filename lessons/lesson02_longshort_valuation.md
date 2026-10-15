@@ -198,9 +198,9 @@ Supplementary:
 
 ---
 
-## 9. Home tasks (choose one)
+## 9. Home tasks 
 
-All use free data (e.g. `yfinance`, Damodaran's online datasets, Ken French data library). Deliver short report + reproducible code via email (one email per team)
+All use free data (e.g. `yfinance`, stooq, Damodaran's online datasets, Ken French data library). Deliver short report + reproducible code via email (one email per team)
 
 1. Comparables valuation and call.
    Pick one company and 5–7 peers. Compute P/E, EV/EBITDA, P/B, FCF yield for each. Value the target off peer medians, state whether it is cheap or expensive and by how much, and decide long or short with a one-paragraph thesis. Discuss where peer selection changed the answer.
