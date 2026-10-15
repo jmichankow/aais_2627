@@ -169,7 +169,7 @@ Limits: premia are long-run averages with deep drawdowns, published "factors" nu
 
 ## Additional reading (for this lesson)
 
-- Bodie, Kane & Marcus, *Essentials of Investments* — Ch. 13 (Equity Valuation: multiples, dividend discount and free cash flow models) and Ch. 14 (Financial Statement Analysis: ratios, earnings quality) for sections 3–5; Ch. 7 (CAPM and APT, including multifactor models and Fama-French) for section 7. A simpler introduction than Damodaran, suitable for students without a finance background.
+- Bodie, Kane & Marcus, *Essentials of Investments* — Ch. 13 (Equity Valuation: multiples, dividend discount and free cash flow models) and Ch. 7 (CAPM and APT, including multifactor models and Fama-French) for section 7. A simpler introduction than Damodaran, suitable for students without a finance background.
 
 Link to selected chapters will be shared via email.
 
