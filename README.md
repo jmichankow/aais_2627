@@ -50,3 +50,7 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 ## Lessons
 
 08.10 - Lesson 1. Introduction & hedge fund strategies and asset class classification. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson01_intro.md)
+
+## Reading
+
+- Bodie, Kane & Marcus, *Essentials of Investments* 
