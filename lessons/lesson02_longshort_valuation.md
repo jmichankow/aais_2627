@@ -136,7 +136,7 @@ Systematic path: turn valuation into a ranked factor across the whole universe.
 
 Value factor context (Ilmanen, Ang): the long-short value spread is the HML factor. It is real over the long run but has long, deep drawdowns — notably the 2007–2020 underperformance of value vs. growth, which drove the debate over whether the premium is dead or just mismeasured (book value ignores intangibles like R&D and brand, which distorts P/B for modern firms). This is the central practical caveat for any value strategy today.
 
-# 7. Multifactor models and their practical applications
+## 7. Multifactor models and their practical applications
  
 A factor model explains a stock's or fund's return as the sum of its exposures to a few common, rewarded risk sources, plus a leftover. That leftover is the real measure of skill. Each factor is itself a long/short portfolio (long the favoured group, short the other).
  
