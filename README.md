@@ -35,6 +35,8 @@ Around 5 mins, we will be discussing why you chose the subject, how you want to 
 
 For the project you'll need to implement a selected investment strategy to a several different asset classes (minimum four) and a combined portfolio of these assets. The strategy needs to be backtested on historical data (can be additionaly paper traded) with a proper trades log. Results should include proper risk adjusted performance metrics and plots of cummulative returns and drawdowns. They need to include a comparison with a benchmark, include transaction costs, out of sample tests and robustness tests.
 
+**Deadlines for submitting weekly assignments are end of first Monday after the class**
+
 ## Generative AI Rules & Plagiarism
 
 Use of AI for generating projects, homeworks and emails is not allowed (it will results in failing the tasks/course).
