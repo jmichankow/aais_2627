@@ -244,7 +244,9 @@ Supplementary (stronger on specific points than the core list):
 
 ---
 
-## 10. Home tasks (choose one)
+## 10. Home tasks
+
+Deliver short report (5 pages max) + reproducible code/spreadsheet via email (one email per team). Deadline by the end of Monday.
 
 All tasks use free data:
 
@@ -252,8 +254,6 @@ All tasks use free data:
 - daily Treasury yield files (CSV) from the US Treasury website
 - `yfinance` for prices of futures and ETFs
 - the New York Fed term-premium series (ACM model, Section 6)
-
-Each task requires a short written report and code that another person can run to reproduce your results.
 
 1. Build and decompose the yield curve.
    Download daily US Treasury yields from FRED for maturities from 3 months to 30 years, covering at least 15 years. These "constant-maturity" yields already form a yield curve, so no bootstrapping is needed.
