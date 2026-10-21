@@ -55,6 +55,8 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 15.10 - Lesson 2. Long/Short equities and valuation. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson02_longshort_valuation.md)
 
+22.10 - Lesson 3. Global macro strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson03_global_macro.md)
+
 ## Reading
 
 - Bodie, Kane & Marcus, *Essentials of Investments* 
