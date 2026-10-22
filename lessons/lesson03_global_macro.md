@@ -29,7 +29,7 @@ What the table shows:
 - The yield to maturity is the value of `y` that makes the sum equal to the market price. There is no formula that gives it directly, so it is found numerically (YIELD or IRR in a spreadsheet, a root-finder such as `scipy.optimize.brentq` in Python). In practice the market sets the price, and the yield is calculated from it.
 - About 90% of the value comes from the last payment, because it includes the €100 principal. Payments far in the future lose more value when the yield changes. This is why long bonds react more strongly to rates.
 
-As formthe duration, if we raise `y` slightly and recompute the table: the price falls. Duration measures how much it falls, expressed as the percentage price change for a 1% change in yield. Bonds whose payments arrive later have higher duration, so long-maturity and low-coupon bonds are the most sensitive. Section 4 gives the exact definition. Section 5 adds a correction (convexity) for large yield changes.
+As for duration, if we raise `y` slightly and recompute the table: the price falls. Duration measures how much it falls, expressed as the percentage price change for a 1% change in yield. Bonds whose payments arrive later have higher duration, so long-maturity and low-coupon bonds are the most sensitive. Section 4 gives the exact definition. Section 5 adds a correction (convexity) for large yield changes.
 
 If you can rebuild this table in a spreadsheet and see the price change when you change `y`, you have the background needed for the rest of the lecture.
 
