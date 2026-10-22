@@ -2,7 +2,7 @@
 
 This lecture introduces global macro, a strategy that trades on views about whole economies. Its main instruments are government bonds and interest-rate derivatives. Most of the lecture covers how a macro desk works with them: how central banks set rates, how bond prices react to rate changes (duration and convexity), how to read the yield curve, and how a view on the economy becomes a trade. We also look at the ways these trades fail.
 
-Primary reading: Ilmanen, *Expected Returns* (rates, bond risk premium, carry); Lhabitant, *Handbook of Hedge Funds* (global macro / managed futures chapters).
+Primary reading: Ilmanen, *Expected Returns* (rates, bond risk premium, carry); Lhabitant, *Handbook of Hedge Funds* (global macro / managed futures chapters), Bodie, Kane & Marcus, *Essentials of Investments*.
 
 ---
 
