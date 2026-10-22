@@ -8,7 +8,7 @@ Primary reading: Ilmanen, *Expected Returns* (rates, bond risk premium, carry); 
 
 ## Bonds introduction
 
-A bond is a list of future payments, and its price is what those payments are worth today. Work through this section with a spreadsheet before reading further.
+A bond is a list of future payments, and its price is what those payments are worth today. 
 
 A bond works like a loan. You lend money (the face value, for example €100). The borrower pays you interest each year (the coupon, for example 5% of face value, or €5) and returns the €100 at the end (maturity).
 
