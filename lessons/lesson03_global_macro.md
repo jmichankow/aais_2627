@@ -246,7 +246,7 @@ Supplementary (stronger on specific points than the core list):
 
 ## 10. Home tasks
 
-Deliver short report (5 pages max) + reproducible code/spreadsheet via email (one email per team). Deadline by the end of Monday.
+Deliver short report (5-10 pages max) + reproducible code/spreadsheet via email (one email per team). Deadline by the end of Monday.
 
 All tasks use free data:
 
