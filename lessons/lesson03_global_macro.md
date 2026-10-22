@@ -2,13 +2,13 @@
 
 This lecture introduces global macro, a strategy that trades on views about whole economies. Its main instruments are government bonds and interest-rate derivatives. Most of the lecture covers how a macro desk works with them: how central banks set rates, how bond prices react to rate changes (duration and convexity), how to read the yield curve, and how a view on the economy becomes a trade. We also look at the ways these trades fail.
 
-Primary reading: Ilmanen, *Expected Returns* (rates, bond risk premium, carry); Lhabitant, *Handbook of Hedge Funds* (global macro / managed futures chapters).
+Primary reading: Ilmanen, *Expected Returns* (rates, bond risk premium, carry); Lhabitant, *Handbook of Hedge Funds* (global macro / managed futures chapters), Bodie, Kane & Marcus, *Essentials of Investments*.
 
 ---
 
 ## Bonds introduction
 
-A bond is a list of future payments, and its price is what those payments are worth today. Work through this section with a spreadsheet before reading further.
+A bond is a list of future payments, and its price is what those payments are worth today. 
 
 A bond works like a loan. You lend money (the face value, for example €100). The borrower pays you interest each year (the coupon, for example 5% of face value, or €5) and returns the €100 at the end (maturity).
 
@@ -29,7 +29,7 @@ What the table shows:
 - The yield to maturity is the value of `y` that makes the sum equal to the market price. There is no formula that gives it directly, so it is found numerically (YIELD or IRR in a spreadsheet, a root-finder such as `scipy.optimize.brentq` in Python). In practice the market sets the price, and the yield is calculated from it.
 - About 90% of the value comes from the last payment, because it includes the €100 principal. Payments far in the future lose more value when the yield changes. This is why long bonds react more strongly to rates.
 
-Duration, informally. Raise `y` slightly and recompute the table: the price falls. Duration measures how much it falls, expressed as the percentage price change for a 1% change in yield. Bonds whose payments arrive later have higher duration, so long-maturity and low-coupon bonds are the most sensitive. Section 4 gives the exact definition. Section 5 adds a correction (convexity) for large yield changes.
+As for duration, if we raise `y` slightly and recompute the table: the price falls. Duration measures how much it falls, expressed as the percentage price change for a 1% change in yield. Bonds whose payments arrive later have higher duration, so long-maturity and low-coupon bonds are the most sensitive. Section 4 gives the exact definition. Section 5 adds a correction (convexity) for large yield changes.
 
 If you can rebuild this table in a spreadsheet and see the price change when you change `y`, you have the background needed for the rest of the lecture.
 
