@@ -57,6 +57,8 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 22.10 - Lesson 3. Global macro strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson03_global_macro.md)
 
+29.10 - Lesson 4. Inflation and commodity cycles strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson04_inflation_commodities.md)
+
 ## Reading
 
 - Bodie, Kane & Marcus, *Essentials of Investments* 
