@@ -59,6 +59,8 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 29.10 - Lesson 4. Inflation and commodity cycles strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson04_inflation_commodities.md)
 
+29.10 - Lesson 5. Technical Analysis [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson05_charts.md)
+
 ## Reading
 
 - Bodie, Kane & Marcus, *Essentials of Investments* 
