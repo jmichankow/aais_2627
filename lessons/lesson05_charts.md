@@ -159,7 +159,7 @@ Supplementary reading
 
 ## Home tasks
 
-Choose one. All use daily price data from a free source (e.g. `yfinance`, or Stooq CSVs) for a liquid asset with a long history — an equity index ETF (SPY), a single large-cap stock, or a commodity ETF. Positions must use only past data, and returns must be reported net of a stated per-trade transaction cost (e.g. 5 basis points per side). Report an equity curve and summary statistics (annualised return, volatility, Sharpe ratio, maximum drawdown), compared against buy-and-hold.
+All use daily price data from a free source (e.g. `yfinance`, or Stooq CSVs) for a liquid asset with a long history — an equity index ETF (SPY), a single large-cap stock, or a commodity ETF. Positions must use only past data, and returns must be reported net of a stated per-trade transaction cost (e.g. 5 basis points per side). Report an equity curve and summary statistics (annualised return, volatility, Sharpe ratio, maximum drawdown), compared against buy-and-hold.
 
 1. Moving-average crossover.
    Core: implement a fast/slow SMA crossover (e.g. 50/200) on an index ETF over 15+ years. Long when fast > slow, flat otherwise. Enforce no look-ahead (the position on day *t* uses averages through *t−1*). Report net-of-cost performance versus buy-and-hold, and report the number of trades and total cost paid.
