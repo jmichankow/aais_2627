@@ -140,7 +140,7 @@ The conclusion for the course: a small, statistically supported subset of techni
 
 Papers
 
-Momentum. Daniel and Moskowitz, “Momentum Crashes,” Journal of Financial Economics, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371227)
+Daniel and Moskowitz, “Momentum Crashes,” Journal of Financial Economics, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2371227)
 
 Guijarro-Ordóñez, Pelger and Zanotti, “Deep Learning Statistical Arbitrage, [Link](https://arxiv.org/abs/2106.04028)
 
