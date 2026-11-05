@@ -28,7 +28,7 @@ Both requirements are revisited in Section 6.
 
 ## 2. Moving averages
 
-A moving average smooths a price series so that its direction is easier to identify. It is the basis of trend-following, the technical approach with the strongest empirical support. However you still need to treat it with a grain of salt.
+A moving average smooths a price series so that its direction is easier to identify. It is the basis of trend-following, the technical approach with the strongest empirical support. However you still need to **treat it with a grain of salt**.
 
 The simple moving average (SMA) over *N* days is the mean of the last *N* closing prices:
 
