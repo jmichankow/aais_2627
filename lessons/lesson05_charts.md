@@ -1,4 +1,4 @@
-# Lesson 5 — Technical and Chart-Based Strategies
+# Lesson 5 — Technical Indicators and Backtesting
 
 In this lesson we will cover parts of technical analysis used by systematic (rule-based) funds: as a set of mathematical transformations that convert a price series into a trading signal. Each indicator is a formula applied to past prices and volume. The lecture has two parts. The first covers the mechanics of the **main indicators** — moving averages, RSI, and Bollinger Bands — and how each is converted into an entry and exit rule. The second covers how to test such a rule, since this is the area of the course where a **backtest** most easily overstates a strategy's value.
 
@@ -162,23 +162,23 @@ Supplementary reading
 All use daily price data from a free source (e.g. `yfinance`, or Stooq CSVs) for a liquid asset with a long history — an equity index ETF (SPY), a single large-cap stock, or a commodity ETF. Positions must use only past data, and returns must be reported net of a stated per-trade transaction cost (e.g. 5 basis points per side). Report an equity curve and summary statistics (annualised return, volatility, Sharpe ratio, maximum drawdown), compared against buy-and-hold.
 
 1. Moving-average crossover.
-   Core: implement a fast/slow SMA crossover (e.g. 50/200) on an index ETF over 15+ years. Long when fast > slow, flat otherwise. Enforce no look-ahead (the position on day *t* uses averages through *t−1*). Report net-of-cost performance versus buy-and-hold, and report the number of trades and total cost paid.
+   Implement a fast/slow SMA crossover (e.g. 50/200) on an index ETF over 15+ years. Long when fast > slow, flat otherwise. Enforce no look-ahead (the position on day *t* uses averages through *t−1*). Report net-of-cost performance versus buy-and-hold, and report the number of trades and total cost paid.
    Stretch: sweep the fast/slow window pair over a grid and plot the Sharpe ratio surface. Then split the sample in half, select the best pair on the first half only, and evaluate it once on the second half. Report how far the out-of-sample Sharpe falls below the in-sample best.
 
 2. RSI mean-reversion.
-   Core: implement an RSI(14) rule — buy when RSI < 30, exit when RSI > 50 — on a single large-cap stock. Report net performance versus buy-and-hold.
+   Implement an RSI(14) rule — buy when RSI < 30, exit when RSI > 50 — on a single large-cap stock. Report net performance versus buy-and-hold.
    Stretch: apply the same rule to a trending asset (a commodity or index) and to a mean-reverting one (a single stock or a pair spread), and show that the same rule succeeds on one and fails on the other. Explain the result using Section 3.
 
 3. Bollinger Bands.
-   Core: on one price series, implement both the mean-reversion rule (sell upper touch, buy lower touch) and the breakout rule (buy upper break, sell lower break) using 20-day, 2σ bands. Report both net performance curves.
+   On one price series, implement both the mean-reversion rule (sell upper touch, buy lower touch) and the breakout rule (buy upper break, sell lower break) using 20-day, 2σ bands. Report both net performance curves.
    Stretch: add a trend filter (e.g. the sign of the 200-day MA slope) that selects between the two rules — mean-reversion when flat, breakout when trending — and test whether the switched rule outperforms either fixed rule.
 
 4. Data-mining demonstration.
-   Core: take one real price series. Generate a large number (e.g. 500) of arbitrary technical rules — random moving-average pairs, random RSI thresholds, random band widths. Record each rule's in-sample Sharpe ratio and report the best. Then evaluate that single best rule on a later, untouched portion of the data.
+   Take one real price series. Generate a large number (e.g. 500) of arbitrary technical rules — random moving-average pairs, random RSI thresholds, random band widths. Record each rule's in-sample Sharpe ratio and report the best. Then evaluate that single best rule on a later, untouched portion of the data.
    Stretch: repeat the search on a synthetic random-walk series with no real structure, and show that a high-Sharpe rule still appears. Explain why the best backtest from a large search is not evidence, referencing López de Prado.
 
 5. Combined, volatility-targeted strategy.
-   Core: build a filter-plus-trigger rule — take long entries from an RSI-oversold or lower-Bollinger-touch signal only when the 200-day MA is rising — and size each position by inverse recent volatility rather than fixed size. Compare its risk-adjusted metrics to the same signal with fixed sizing.
-   Stretch: apply the strategy to three asset classes (equity, commodity, currency) and report whether performance generalises or is concentrated in one asset. Relate the risk-adjusted comparison to the metrics formalised in Lesson 8.
+   Build a filter-plus-trigger rule — take long entries from an RSI-oversold or lower-Bollinger-touch signal only when the 200-day MA is rising — and size each position by inverse recent volatility rather than fixed size. Compare its risk-adjusted metrics to the same signal with fixed sizing.
+   Stretch: apply the strategy to three asset classes (equity, commodity, currency) and report whether performance generalises or is concentrated in one asset. 
 
 6. Choose any strategy from crackingmarkets.com (you might need to set up an account but most of them are completely free). Try to reproduce it on any set of assets (stocks would be the closest) 
