@@ -173,7 +173,7 @@ All use free data. Deliver short report + reproducible code. Deadline is end of 
    Take monthly returns of an emerging-market equity index and a developed-market (ex-US or US) equity index, and the US dollar index (DXY) from FRED. Regress EM and DM returns on dollar changes and compare the sensitivities. Then split the sample into strong-dollar and weak-dollar regimes and show how EM's relative performance and its correlation with US equities differ across the two. Comment on what this does to the diversification case for EM.
 
 4. Commodity total-return decomposition and gold vs real rates.
-   Core: for one commodity (crude oil is the clearest), obtain a front-month futures or ETF series and a total-return series, and decompose the total return into spot and roll components. Show the contango drag: quantify how much return was lost to rolling over the sample, and relate it to periods of contango vs backwardation.
+   For one commodity (crude oil is the clearest), obtain a front-month futures or ETF series and a total-return series, and decompose the total return into spot and roll components. Show the contango drag: quantify how much return was lost to rolling over the sample, and relate it to periods of contango vs backwardation.
    Stretch: separately, regress monthly gold returns on changes in the 10-year real yield (TIPS). Show the negative relationship, and identify the periods where it broke down.
 
 5. Backtest: commodities vs equities as an inflation hedge (syllabus core deliverable).
