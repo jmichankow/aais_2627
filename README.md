@@ -61,7 +61,7 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 05.11 - Lesson 5. Technical indicators and backtesting [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson05_charts.md)
 
-12.11 - Lesson 5. Technical indicators and backtesting [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson06_momentum_contrarian.md)
+12.11 - Lesson 6. Momentum and mean reverting. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson06_momentum_contrarian.md)
 
 ## Reading
 
