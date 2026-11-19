@@ -63,6 +63,8 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 12.11 - Lesson 6. Momentum and mean reverting. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson06_momentum_contrarian.md)
 
+19.11 - Lesson 7. Behavioural and event driven strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson06_momentum_contrarian.md)
+
 ## Reading
 
 - Bodie, Kane & Marcus, *Essentials of Investments* 
