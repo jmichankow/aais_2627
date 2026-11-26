@@ -65,6 +65,8 @@ Plagiarism is not tolerated in any form (including AI/self-plagiarism). You are 
 
 19.11 - Lesson 7. Behavioural and event driven strategies. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson07_event.md)
 
+26.11 - Lesson 8. Risk adjusted performance metrics. [Link](https://github.com/jmichankow/aais_2627/blob/main/lessons/lesson08_risk.md)
+
 ## Reading
 
 - Bodie, Kane & Marcus, *Essentials of Investments* 
