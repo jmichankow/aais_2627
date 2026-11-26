@@ -1,4 +1,4 @@
-# Lesson 8 — Risk-Adjusted Performance Measurement
+# Lesson 8 — Risk-Adjusted Performance Metrics
 
 This lecture covers how to judge a strategy's performance once its return series exists. Every previous lesson produced a rule that generates returns, and every one deferred the question of how to compare those returns to this lecture. **A raw return number is not enough**, because a strategy can earn a high return by taking large risk, and two strategies with the same average return can differ completely in how they lose money. The task is to **measure return relative to the risk taken**, and to do so with measures that are not easily fooled.
 
